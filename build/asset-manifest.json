@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.js": "/static/js/main.b934767c.js",
-    "static/js/703.8c9edac3.chunk.js": "/static/js/703.8c9edac3.chunk.js",
-    "static/js/258.2c424faa.chunk.js": "/static/js/258.2c424faa.chunk.js",
-    "index.html": "/index.html",
-    "main.b934767c.js.map": "/static/js/main.b934767c.js.map",
-    "703.8c9edac3.chunk.js.map": "/static/js/703.8c9edac3.chunk.js.map",
-    "258.2c424faa.chunk.js.map": "/static/js/258.2c424faa.chunk.js.map"
+    "main.css": "/black-dashboard-pro-react/static/css/main.97570e5c.chunk.css",
+    "main.js": "/black-dashboard-pro-react/static/js/main.7f732f6c.chunk.js",
+    "main.js.map": "/black-dashboard-pro-react/static/js/main.7f732f6c.chunk.js.map",
+    "runtime-main.js": "/black-dashboard-pro-react/static/js/runtime-main.2fed4157.js",
+    "runtime-main.js.map": "/black-dashboard-pro-react/static/js/runtime-main.2fed4157.js.map",
+    "static/css/2.f4cb9c36.chunk.css": "/black-dashboard-pro-react/static/css/2.f4cb9c36.chunk.css",
+    "static/js/2.988d02f9.chunk.js": "/black-dashboard-pro-react/static/js/2.988d02f9.chunk.js",
+    "static/js/2.988d02f9.chunk.js.map": "/black-dashboard-pro-react/static/js/2.988d02f9.chunk.js.map",
+    "index.html": "/black-dashboard-pro-react/index.html",
+    "static/css/2.f4cb9c36.chunk.css.map": "/black-dashboard-pro-react/static/css/2.f4cb9c36.chunk.css.map",
+    "static/css/main.97570e5c.chunk.css.map": "/black-dashboard-pro-react/static/css/main.97570e5c.chunk.css.map",
+    "static/js/2.988d02f9.chunk.js.LICENSE.txt": "/black-dashboard-pro-react/static/js/2.988d02f9.chunk.js.LICENSE.txt",
+    "static/js/main.7f732f6c.chunk.js.LICENSE.txt": "/black-dashboard-pro-react/static/js/main.7f732f6c.chunk.js.LICENSE.txt",
+    "static/media/card-primary.png": "/black-dashboard-pro-react/static/media/card-primary.17212428.png",
+    "static/media/image_placeholder.ae264cfc.jpg": "/black-dashboard-pro-react/static/media/image_placeholder.ae264cfc.jpg",
+    "static/media/nucleo-icons.css": "/black-dashboard-pro-react/static/media/nucleo.bd5cce8b.eot",
+    "static/media/profil.PNG": "/black-dashboard-pro-react/static/media/profil.48600ec8.PNG"
   },
   "entrypoints": [
-    "static/js/main.b934767c.js"
+    "static/js/runtime-main.2fed4157.js",
+    "static/css/2.f4cb9c36.chunk.css",
+    "static/js/2.988d02f9.chunk.js",
+    "static/css/main.97570e5c.chunk.css",
+    "static/js/main.7f732f6c.chunk.js"
   ]
 }
